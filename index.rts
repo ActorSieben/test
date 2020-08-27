@@ -1,0 +1,12 @@
+Основы Python 
+===============
+**Комментарии в python**
+""""""""""""""""""""""""
+
+Ready to share your documentation?
+You don't have any projects yet, but you can start building documentation by importing one. Not sure how to start documenting your project? Check out the Getting Started Guide to learn how.
+
+.. image:: https://cs8.pikabu.ru/post_img/big/2016/08/29/10/1472488019123122509.png
+
+.. code-block:: python
+    #dfd
